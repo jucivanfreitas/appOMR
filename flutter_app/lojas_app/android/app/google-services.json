@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365384088045",
+    "firebase_url": "https://lojasdebairro.firebaseio.com",
+    "project_id": "lojasdebairro",
+    "storage_bucket": "lojasdebairro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365384088045:android:c8e1f1998d51f9797e8fe4",
+        "android_client_info": {
+          "package_name": "com.celvansystems.lojas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365384088045-ktto00ei2c52dle4ba7fseqtr3qd807s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFcHvBJdyyxV6IHLP79rtkrj38bGiaMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365384088045-ktto00ei2c52dle4ba7fseqtr3qd807s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

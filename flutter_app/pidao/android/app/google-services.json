@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443342312258",
+    "firebase_url": "https://pidaoapp.firebaseio.com",
+    "project_id": "pidaoapp",
+    "storage_bucket": "pidaoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443342312258:android:ad8520454c352cf637aedb",
+        "android_client_info": {
+          "package_name": "com.celvansystems.pidao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443342312258-uutq07gvhtf8uqej7bte6ke50gimi9bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKB8LFZCX2h5FipTC3vqYT3BU6UAhV1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443342312258-uutq07gvhtf8uqej7bte6ke50gimi9bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
